@@ -1,4 +1,4 @@
-## Hi there 👋
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>Hi there <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=30&center=true&vCenter=true&width=500&height=80&lines=David+Mas" />
@@ -6,7 +6,7 @@
 
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-### Contacto
+# Contacto
 <div align="center">
   <table style="border-collapse: collapse; border: none;">
     <tr style="border: none;">
@@ -53,6 +53,7 @@
     </tr>
   </table>
 </div>
+
 # Languages
 <div align="center">
   <table style="border-collapse: collapse; border: none;">
@@ -80,7 +81,6 @@
     </tr>
   </table>
 </div>
-
 
 # Frontend Frameworks & Libraries
 <div align="center">
@@ -110,7 +110,6 @@
   </table>
 </div>
 
-
 # Backend / Runtime & DevOps
 <div align="center">
   <table style="border-collapse: collapse; border: none;">
@@ -126,7 +125,6 @@
     </tr>
   </table>
 </div>
-
 
 # Database
 <div align="center">
@@ -199,7 +197,6 @@
     </tr>
   </table>
 </div>
-
 
 # 🎶 Sound
 <div align="center">
