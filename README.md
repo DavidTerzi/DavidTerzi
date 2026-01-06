@@ -14,7 +14,7 @@
   </a>
 </div>
 
-# 📫 Contacto
+# Contacto
 <div align="center">
   <table style="border-collapse: collapse; border: none;">
     <tr style="border: none;">
@@ -46,7 +46,7 @@
   </table>
 </div>
 
-# 💻 OS
+# OS
 <div align="center">
   <table style="border-collapse: collapse; border: none;">
     <tr style="border: none;">
@@ -62,7 +62,7 @@
   </table>
 </div>
 
-# 🔤 Languages
+# Languages
 <div align="center">
   <table style="border-collapse: collapse; border: none;">
     <tr style="border: none;">
@@ -90,7 +90,7 @@
   </table>
 </div>
 
-# 🎨 Frontend Frameworks & Libraries
+# Frontend Frameworks & Libraries
 <div align="center">
   <table style="border-collapse: collapse; border: none;">
     <tr style="border: none;">
@@ -118,7 +118,7 @@
   </table>
 </div>
 
-# ⚙️ Backend / Runtime & DevOps
+# Backend / Runtime & DevOps
 <div align="center">
   <table style="border-collapse: collapse; border: none;">
     <tr style="border: none;">
@@ -134,7 +134,7 @@
   </table>
 </div>
 
-# 🗄️ Database
+# Database
 <div align="center">
   <table style="border-collapse: collapse; border: none;">
     <tr style="border: none;">
@@ -154,7 +154,7 @@
   </table>
 </div>
 
-# 🛠️ Developer Tools 
+# Developer Tools 
 <div align="center">
   <table style="border-collapse: collapse; border: none;">
     <tr style="border: none;">
@@ -178,7 +178,7 @@
   </table>
 </div>
 
-# 👩‍💻 IDE
+# IDE
 <div align="center">
   <table style="border-collapse: collapse; border: none;">
     <tr style="border: none;">
@@ -190,7 +190,7 @@
   </table>
 </div>
 
-# 💻 Terminal
+# Terminal
 <div align="center">
   <table style="border-collapse: collapse; border: none;">
     <tr style="border: none;">
